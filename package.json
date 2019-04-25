@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-purchase-pgb-compatibility",
+  "version": "1.0.0",
+  "description": "Cordova Purchase Compatibility plugin",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalmanzar/cordova-plugin-purchase-PGB-compatibility.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalmanzar/cordova-plugin-purchase-PGB-compatibility/issues"
+  },
+  "homepage": "https://github.com/lalmanzar/cordova-plugin-purchase-PGB-compatibility#readme"
+}
